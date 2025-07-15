@@ -1,22 +1,22 @@
-# 💬 ChatVerse
-## 🚀 Features
+#  ChatVerse
+##  Features
 
-- 🔵 Join the chat using your name
-- 💬 Send and receive real-time messages
-- 📡 See user join and leave notifications live
-- ⚡ Smooth Socket.IO integration
+-  Join the chat using your name
+-  Send and receive real-time messages
+-  See user join and leave notifications live
+-  Smooth Socket.IO integration
 ChatVerse is a real-time chat application built with **React**, **Node.js**, **Express**, and **Socket.IO**.
 
 This project includes:
-- 🔹 A React-based frontend (`client/`)
-- 🔹 A Node.js + Express + Socket.IO backend (`server/`)
+- A React-based frontend (`client/`)
+- A Node.js + Express + Socket.IO backend (`server/`)
 
-## 📦 Tech Stack
+## Tech Stack
 
-### 🚀 Frontend
+### Frontend
 - React (Vite)
 
-### 🔧 Backend
+### Backend
 - Node.js
 - Express
 - Socket.IO
