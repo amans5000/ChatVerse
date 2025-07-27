@@ -1,0 +1,24 @@
+<svg width="256" height="256" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .envelope-blue { fill: #623CE7; }
+      .letter-pink { fill: #F94C82; }
+      .paper-white { fill: #FFFFFF; }
+    </style>
+  </defs>
+  
+  <g>
+    <path class="envelope-blue" d="M56,58H8c-3.3,0-6-2.7-6-6V35.4L32,52l30-16.6V52C62,55.3,59.3,58,56,58z"/>
+    
+    <path class="letter-pink" d="M54,40H10c-3.3,0-6-2.7-6-6V14c0-3.3,2.7-6,6-6h44c3.3,0,6,2.7,6,6v20C60,37.3,57.3,40,54,40z"/>
+    
+    <rect class="paper-white" x="18" y="16" width="28" height="5" rx="2.5"/>
+    <rect class="paper-white" x="18" y="25" width="28" height="5" rx="2.5"/>
+    
+    <path class="paper-white" d="M32,48L2,32V28.1l2.1,1.3L32,46l27.9-16.6L62,28.1V32L32,48z"/>
+    
+    <path class="envelope-blue" d="M32,42.4L58.1,28H5.9L32,42.4z"/>
+    
+    <rect class="envelope-blue" x="44" y="47" width="10" height="4" rx="2"/>
+  </g>
+</svg>

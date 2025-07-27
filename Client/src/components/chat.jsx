@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { useSelector } from "react-redux";
 import socketIO from "socket.io-client"
 import ReactScrollToBottom  from "react-scroll-to-bottom";
 import { Send } from 'lucide-react';
